@@ -4,8 +4,3 @@
 
 - Dernière update : 05/08/2026
 - Version : 1.2.2
-
-| Nom | Âge | Ville |
-|---|---:|---|
-| Bob | 20 | Paris |
-| Alice | 25 | Lyon |
