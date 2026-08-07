@@ -2,5 +2,5 @@
 
 *Des updates sont à venir.*
 
-- Dernière update : 05/08/2026
-- Version : 1.2.2
+-# Dernière update : 05/08/2026
+-# Version : 1.2.2
